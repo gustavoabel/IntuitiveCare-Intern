@@ -9,4 +9,4 @@ Deverá ter o python instalado na máquina e também instalar todas as libs util
 * pip3 install bs4 wget
 * python3 scraper.py
 
-E então o arquivo conforme instruido "ComponenteOrganizacional.pdf" estára na raiz do projeto WebScraping.
+E então o arquivo conforme instruido "ComponenteOrganizacional.pdf" estará na raiz do projeto WebScraping.
