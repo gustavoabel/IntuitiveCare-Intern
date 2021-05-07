@@ -6,7 +6,8 @@ Deverá ter o python instalado na máquina e também instalar todas as libs util
 
 ### Rodando o WebScraping
 * Primeiro de tudo basta clonar o projeto e dirigir-se até a pasta principal WebScraping e rodar os seguintes comandos em seu terminal
-* pip3 install bs4 wget
-* python3 scraper.py
-
+```bash
+$ pip3 install bs4 wget
+$ python3 scraper.py
+```
 E então o arquivo conforme instruido "ComponenteOrganizacional.pdf" estará na raiz do projeto WebScraping.
