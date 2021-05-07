@@ -7,7 +7,7 @@ Deverá ter o python instalado na máquina, instalar o pip (gerenciador de pacot
 ### Rodando o WebScraping
 * Primeiro de tudo basta clonar o projeto e dirigir-se até a pasta principal WebScraping e rodar os seguintes comandos em seu terminal
 ```bash
-$ $ sudo apt install python3-pip
+$ sudo apt install python3-pip
 $ pip3 install bs4 wget
 $ python3 scraper.py
 ```
