@@ -2,7 +2,7 @@ import camelot
 import shutil
 from pathlib import Path
 
-BASE_PATH = "./tables"
+BASE_PATH = "./csvs"
 
 # Quadro 30 e Inici­o do 31
 quadro_30, quadro_31 = camelot.read_pdf('input.pdf', pages="79")
@@ -20,4 +20,4 @@ quadro_31_df.to_csv(Path(f'{BASE_PATH}/quadro_31.csv'))
 quadro_32 = camelot.read_pdf('input.pdf', pages="85")[0]
 quadro_32.to_csv(Path(f'{BASE_PATH}/quadro_32.csv'))
 
-shutil.make_archive('tables', 'zip', BASE_PATH)
+shutil.make_archive('Teste_Intuitive_Care_Gustavo_Abel', 'zip', BASE_PATH)
