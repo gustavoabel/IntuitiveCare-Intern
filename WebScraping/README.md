@@ -11,4 +11,4 @@ $ sudo apt install python3-pip
 $ pip3 install bs4 wget
 $ python3 scraper.py
 ```
-E então o arquivo conforme instruido "ComponenteOrganizacional.pdf" estará na raiz do projeto WebScraping.
+E então o arquivo conforme instruido o documento "ComponenteOrganizacional.pdf" estará na raiz do projeto WebScraping.
